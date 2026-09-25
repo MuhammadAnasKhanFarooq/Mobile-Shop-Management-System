@@ -1,0 +1,28 @@
+# Qt build folders
+build/
+debug/
+release/
+
+# Qt Creator user settings
+*.pro.user
+*.pro.user.*
+
+# Visual Studio generated files
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.qtvscr
+
+# Generated Qt UI headers
+ui_*.h
+
+# Compiled files
+*.obj
+*.exe
+*.dll
+*.pdb
+*.ilk
+
+# Temporary files
+*.tmp
+*.log
